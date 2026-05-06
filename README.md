@@ -3,16 +3,6 @@
 
 FlappyBit turns Bitcoin chaos into a browser game where players dodge red candles, collect Sats, unlock eras, earn badges, and fly through crypto history.
 
-__________________________________________________________________
-
-
-## 🕹️ Play
-
-https://flappybit.fun
-
-(DM on X for beta access)
-
-__________________________________________________________________
 
 
 ## 🚀 What it is
@@ -23,7 +13,14 @@ FlappyBit makes it playable.
 
 Players fly through Bitcoin market eras, dodge red candles, stack soft Sats, unlock new eras, collect skins and avatars, and compete on weekly leaderboards.
 
-__________________________________________________________________
+
+
+## 🕹️ Play
+
+https://flappybit.fun
+
+(DM on X for beta access)
+
 
 
 ## 🌐 Socials
@@ -37,10 +34,6 @@ https://www.instagram.com/FlappyBitFun
 YouTube:
 https://www.youtube.com/FlappyBit
 
-Discord:
-https://discord.com/
-
-__________________________________________________________________
 
 
 ## ✅ Current MVP
